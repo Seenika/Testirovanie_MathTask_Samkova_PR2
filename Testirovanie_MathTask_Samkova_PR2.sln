@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testirovanie_MathTask_Samkova_PR2", "Testirovanie_MathTask_Samkova_PR2.csproj", "{96D03106-1415-4C9D-9051-C2261DA63DC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTaskTests_Samkova", "..\MathTaskTests_Samkova\MathTaskTests_Samkova.csproj", "{F7196E81-9538-46FF-8C60-E83F93EDD451}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{96D03106-1415-4C9D-9051-C2261DA63DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96D03106-1415-4C9D-9051-C2261DA63DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96D03106-1415-4C9D-9051-C2261DA63DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7196E81-9538-46FF-8C60-E83F93EDD451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7196E81-9538-46FF-8C60-E83F93EDD451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7196E81-9538-46FF-8C60-E83F93EDD451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7196E81-9538-46FF-8C60-E83F93EDD451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
